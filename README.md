@@ -1,2 +1,2 @@
 # html-css
- Primeiro projeto HTML e CSS
+ Desafios HTML e CSS
