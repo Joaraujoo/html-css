@@ -34,7 +34,6 @@ span#burguer:hover{
     color: black;
 }
 
-
 menu{
     display: none;
 }
@@ -48,9 +47,11 @@ menu a{
     text-decoration: none;
     text-align: center;
     padding: 10px;
+    padding-right: 20px;
     background-color: rgb(83, 83, 83);
     color: white;
     border-top: 2px solid gray;
+    margin-left: -5px;
 }
 
 menu a:hover{
